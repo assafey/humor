@@ -1,6 +1,6 @@
 {
   "name": "humor",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "description": "Actor System for NodeJS",
   "main": "index.js",
   "scripts": {
